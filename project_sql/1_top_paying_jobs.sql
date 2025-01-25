@@ -5,11 +5,15 @@ SELECT job_id,
     salary_year_avg,
     job_posted_date,
     company_dim.name
- from job_postings_fact
- left join company_dim on
+ from 
+    job_postings_fact
+ left join
+     company_dim on
     job_postings_fact.company_id = company_dim.company_id
-where job_title_short = 'Data Analyst'
+where
+     job_title_short = 'Data Analyst'
     and salary_year_avg IS NOT NULL 
     and job_location = 'Anywhere'
-ORDER BY salary_year_avg DESC
+ORDER BY
+     salary_year_avg DESC
 LIMIT 10
