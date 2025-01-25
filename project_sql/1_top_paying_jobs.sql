@@ -13,7 +13,7 @@ SELECT job_id,
 where
      job_title_short = 'Data Analyst'
     and salary_year_avg IS NOT NULL 
-    and job_location = 'Anywhere'
+    --and job_location = 'Anywhere'
 ORDER BY
      salary_year_avg DESC
 LIMIT 10
