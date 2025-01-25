@@ -13,3 +13,4 @@ WHERE
      job_title_short LIKE 'Data Analyst'
 GROUP BY skills
 ORDER BY totel_demand DESC
+LIMIT 5;

@@ -13,3 +13,4 @@ WHERE
     and salary_year_avg is not NULL
 GROUP BY skills
 ORDER BY avg_salary_per_skill DESC
+LIMIT 25;
