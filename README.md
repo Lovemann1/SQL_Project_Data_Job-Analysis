@@ -249,7 +249,7 @@ Here is the breakdown of hte most optimal skills for Data Analysts in 2023
 - Cloud Tools and Technologies: Skills in specilized technologies such as Snowflake, Azure, AWS, and BigQuery show significant demand with relatively high average salaries. 
 
 # What I learn 
-This was the first learning projact for me every minute that I spent in bulding this project was a learning exprience for me. This project helped me to under sql query more deeply. Provided me a chance to implement new skills that I learned along the way
+This was the first learning projact for me every minute that I spent in bulding this project was a new learning exprience for me. This project helped me to under sql query more deeply. Provided me a chance to implement new skills that I learned along the way.I started from the basic queries understanding them and applying them and seeing what effect it made on the dataset.
 # Conclusion
 1. **Top-Paying Data Analyst Jobs:** The highest-paying jobs for data analysts that allow remote work offer a wide range of salaries, the highest at $650,000!
 2. **Skills for Top-Paying Jobs:** High-paying data analyst jobs require advanced proficiency in SQL, suggesting it's a critical skill for earning a top salary.
