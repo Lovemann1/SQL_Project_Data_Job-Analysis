@@ -71,7 +71,7 @@ Here is the brackdown of the top data analyst job in 2023
 ### 2.Skills for Top Paying Jobs
 To understand what skills are required for the top-paying jobs, I joined the job postings with the skills data, providing insights into what employers valuse for high-compensation roles.
 
-``` SQL
+ SQL
 with top_paying_job_with_job_id as (
     SELECT job_id,
         job_title,
