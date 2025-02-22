@@ -1,5 +1,5 @@
 # Indroduction
-Exprore the data job market of 2023! focusing on
+Explore the data job market of 2023! focusing on
 Data Analyst role, This project explores top-paying
 job, in-demant skills, and find the skills which is
 payed the most in the Data Analyst role.
